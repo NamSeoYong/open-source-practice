@@ -11,7 +11,11 @@ Text can be **bold**, _italic_, ~~strikethrough~
 > This is blockquote following a header.
 
 
+<<<<<<< HEAD
 '''C
+=======
+'''c
+>>>>>>> parent of 386388c... second article
 //c code with syntax highlighting.
 #include <stdio.h>
 int main(void) {
@@ -33,5 +37,5 @@ int main(void) {
 
 
 **
-![Alt "Hello"](http://guides.github.com/activites/hello-world/branching.png)
+![Alt "Hello"](https://guides.github.com/activites/hello-world/branching.png)
 
